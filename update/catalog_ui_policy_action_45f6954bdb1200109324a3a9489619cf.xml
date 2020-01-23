@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:2f16190bdb1200109324a3a948961978</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-16 21:21:42</sys_created_on>
+        <sys_id>45f6954bdb1200109324a3a9489619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>who_is_this_request_for</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_45f6954bdb1200109324a3a9489619cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-16 21:21:42</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Set Request for Mandatory">0eb6514bdb1200109324a3a9489619d5</ui_policy>
+        <variable>who_is_this_request_for</variable>
+        <variable_set display_value="Requested For">7f55d9c7db1200109324a3a94896191e</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

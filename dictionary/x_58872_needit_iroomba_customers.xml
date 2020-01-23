@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sc_cat_item" label="IRoomba Customers" max_length="40" name="x_58872_needit_iroomba_customers" type="collection">
+        <element label="Color" max_length="40" name="color" reference="sys_report_color" type="color"/>
+        <element label="Newest version" max_length="40" name="newest_version" reference="wf_versionable" type="boolean"/>
+    </element>
+</database>
