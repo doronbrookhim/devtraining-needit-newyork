@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Champgrind Table" max_length="40" name="x_58872_needit_champgrind_table" type="collection">
+        <element choice="1" label="Color you want" max_length="40" name="color_you_want" type="color">
+            <choice>
+                <element inactive_on_update="false" label="Blue" value="Blue"/>
+                <element inactive_on_update="false" label="Red" value="Red"/>
+            </choice>
+        </element>
+    </element>
+</database>
